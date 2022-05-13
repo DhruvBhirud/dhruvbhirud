@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm DhruvBhirud</h1>
 <h3 align="center">A Passionate 💻Engineering Student from India</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvbhirud&show_icons=true&locale=en&include_all_commits=true" alt="dhruvbhirud" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvbhirud&show_icons=true&theme=radical&locale=en&include_all_commits=true" alt="dhruvbhirud" /></p>
 
 - 👨‍💻 All of my projects are available at [https://dhruvbhirud.github.io/](https://dhruvbhirud.github.io/)
 
