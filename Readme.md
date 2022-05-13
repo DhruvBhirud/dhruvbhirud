@@ -12,6 +12,8 @@
 
 - 📝 I regularly write articles on [https://dhruvbhirud.github.io/](https://dhruvbhirud.github.io/)
 
+- 📫 How to reach me **bhiruddhruv@gmail.com**
+
 - 📄 Know about my experiences [https://dhruvbhirud.github.io/](https://dhruvbhirud.github.io/)
 
 <h3 align="left">Connect with me:</h3>
