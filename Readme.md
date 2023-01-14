@@ -155,7 +155,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <!--<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2391E6.svg?logo=Kubernetes&logoColor=white" /></a>-->
     <!--<a href="#"><img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600.svg?logo=qemu&logoColor=white" /></a>-->
     <a href="#">
-        <img alt="VMware ESXi" src="https://img.shields.io/badge/VMware%20ESXi-607078.svg?logo=vmware&logoColor=white" /></a>
+        <img alt="VMware" src="https://img.shields.io/badge/VMware-607078.svg?logo=vmware&logoColor=white" /></a>
     <a href="#">
         <img alt="Oracle VirtualBox" src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61.svg?logo=virtualbox&logoColor=white" /></a>
 </p>
