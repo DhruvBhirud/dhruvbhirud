@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=t0xic0der.t0xic0der/" /></a>
+    <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=DhruvBhirud.dhruvbhirud/" /></a>
 </p>
 
 ## TLDR
