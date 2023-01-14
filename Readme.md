@@ -115,6 +115,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" /></a>
     <a href="#"><img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF.svg?logo=githubactions&logoColor=white" /></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white" /></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
 </p>
 
 ### Virtualization and deployment
