@@ -150,7 +150,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 ### Operating systems
 <p>
     <a href="#"><img alt="GNU/Linux" src="https://img.shields.io/badge/GNU%2FLinux-%23F7DF1E.svg?logo=Linux&logoColor=black" /></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%2391E6.svg?logo=Windows&logoColor=white" /></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white" /></a>
     <a href="#"><img alt="Mac OS" src="https://img.shields.io/badge/Mac%20OS-%23E34F26.svg?logo=Apple&logoColor=white" /></a>
 </p>
 
@@ -165,7 +165,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="Debian Linux" src="https://img.shields.io/badge/Debian%20Linux-A81D33.svg?logo=Debian&logoColor=white" /></a>
     <a href="#"><img alt="Manjaro Linux" src="https://img.shields.io/badge/Manjaro%20Linux-35BF5C.svg?logo=manjaro&logoColor=white" /></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white" /></a>
-    <a href="#"><img alt="Android OS" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+    <a href="#"><img alt="Android OS" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" /></a>
     <!--<a href="#"><img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?logo=alpinelinux&logoColor=white" /></a>-->
 </p>
 
