@@ -29,7 +29,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 ## Statistics
 
 <p align="center">
-    <a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true&theme=vue-dark" /></a>
+    <a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhruvBhirud&show_icons=true&theme=vue-dark" /></a>
     <a href="#"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvBhirud&theme=vue-dark" /></a>
 </p>
 
