@@ -209,7 +209,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#">
         <img alt="Manjaro Linux" src="https://img.shields.io/badge/Manjaro%20Linux-35BF5C.svg?logo=manjaro&logoColor=white" /></a>
     <a href="#">
-        <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white" /></a>
+        <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white" /></a>
     <a href="#">
         <img alt="Android OS" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" /></a>
     <!--<a href="#"><img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?logo=alpinelinux&logoColor=white" /></a>-->
