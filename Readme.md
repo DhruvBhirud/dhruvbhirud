@@ -40,16 +40,14 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 
 ## Reach out
 
-- <a href="#"><img alt="Akashdeep Dhar on GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" /></a>&nbsp;<a href="http://github.apexaltruism.net/">t0xic0der</a>
-- <a href="#"><img alt="Akashdeep Dhar on GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" /></a>&nbsp;<a href="http://gitlab.apexaltruism.net/">t0xic0der</a>
-- <a href="#"><img alt="Akashdeep Dhar on Pagure" src="https://img.shields.io/badge/Pagure-4495D1.svg?logo=shell&logoColor=white" /></a>&nbsp;<a href="http://pagure.apexaltruism.net/">t0xic0der</a>
-- <a href="#"><img alt="Akashdeep Dhar on PyPI" src="https://img.shields.io/badge/PyPI-3775A9.svg?logo=pypi&logoColor=white" /></a>&nbsp;<a href="http://pypi.apexaltruism.net/">t0xic0der</a>
-- <a href="#"><img alt="Akashdeep Dhar on Fedora Project" src="https://img.shields.io/badge/Fedora%20Project-51A2DA.svg?logo=fedora&logoColor=white" /></a>&nbsp;<a href="http://fedoraproject.apexaltruism.net/">t0xic0der</a>
-- <a href="#"><img alt="Akashdeep Dhar on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" /></a>&nbsp;<a href="http://linkedin.apexaltruism.net/">Akashdeep Dhar</a>
-- <a href="#"><img alt="Akashdeep Dhar on Quora" src="https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white" /></a>&nbsp;<a href="https://www.quora.com/profile/Akashdeep-Dhar-1">t0xic0der</a>
-- <a href="#"><img alt="Reach Akashdeep Dhar on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" /></a>&nbsp;<a href="http://twitter.apexaltruism.net/">t0xic0der</a>
-- <a href="#"><img alt="Akashdeep Dhar on Medium" src="https://img.shields.io/badge/Medium-000000.svg?logo=medium&logoColor=white" /></a>&nbsp;<a href="https://medium.com/@t0xic0der/">t0xic0der</a>
-- <a href="#"><img alt="Reach Akashdeep Dhar on Email" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white" /></a>&nbsp;<a href="mailto:messages@apexaltruism.net">Email me</a>
+- <a href="#"><img alt="Dhruv Bhirud on GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" /></a>&nbsp;<a href="https://github.com/DhruvBhirud">DhruvBhirud</a>
+- <a href="#"><img alt="Dhruv Bhirud on GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" /></a>&nbsp;<a href="https://gitlab.com/bhiruddhruv">bhiruddhruv</a>
+- <a href="#"><img alt="Dhruv Bhirud on PyPI" src="https://img.shields.io/badge/PyPI-3775A9.svg?logo=pypi&logoColor=white" /></a>&nbsp;<a href="https://pypi.org/user/DhruvBhirud/">DhruvBhirud</a>
+- <a href="#"><img alt="Dhruv Bhirud on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/dhruvbhirud/">DhruvBhirud</a>
+- <a href="#"><img alt="Dhruv Bhirud on Quora" src="https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white" /></a>&nbsp;<a href="https://www.quora.com/profile/Dhruv-Bhirud/">DhruvBhirud</a>
+- <a href="#"><img alt="Reach Dhruv Bhirud on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" /></a>&nbsp;<a href="https://twitter.com/DhruvBhirud">t0xic0der</a>
+- <a href="#"><img alt="Dhruv Bhirud on Medium" src="https://img.shields.io/badge/Medium-000000.svg?logo=medium&logoColor=white" /></a>&nbsp;<a href="https://medium.com/@bhiruddhruv">DhruvBhirud</a>
+- <a href="#"><img alt="Reach Dhruv Bhirud on Email" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white" /></a>&nbsp;<a href="mailto:bhiruddhruv@gmail.com">Email me</a>
 
 ## Arsenal
 
