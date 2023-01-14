@@ -150,7 +150,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 ### Operating systems
 <p>
     <a href="#"><img alt="GNU/Linux" src="https://img.shields.io/badge/GNU%2FLinux-%23F7DF1E.svg?logo=Linux&logoColor=black" /></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white" /></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?logo=Windows%2011&logoColor=white" /></a>
     <a href="#"><img alt="Mac OS" src="https://img.shields.io/badge/Mac%20OS-%23E34F26.svg?logo=Apple&logoColor=white" /></a>
 </p>
 
