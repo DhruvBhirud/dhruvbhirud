@@ -21,7 +21,9 @@ A Passionate 💻Engineering Student from India
 ## About
 
 <p align="justify">
-I have been a GNU/Linux enthusiast since my early college days with keen interests in networking, cloud computing, self-hosting and operating systems. Having been diagnosed with an acute distro-hopping syndrome, I have tried a multitude of GNU/Linux distributions before settling for Fedora Workstation (and never moving away since). The use of leading-edge technologies, distribution as quick point releases and the support by a friendly diverse collective of users and contributors made me want to give back in a way that helps the community grow substantially. Being a proponent of free and open-source software, I advocate for equitable and inclusive participation in the projects that I help develop and maintain.
+I’m Computer Engineering Student from Pune, India, Aiming to improve my skills
+in app development. I enjoy creating new apps with intuitive design and usage.
+Always trying to learn new things. I aim to achieve efficiency and increase quality of the projects that I work on.
 </p>
 
 ## Contributions
