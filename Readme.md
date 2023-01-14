@@ -60,7 +60,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" /></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" /></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" /></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/JAVA%20-%231572B6.svg?logo=java&logoColor=white" /></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/Java%20-%231572B6.svg?logo=java&logoColor=white" /></a>
 </p>
 
 ### Analytics and databases
@@ -75,7 +75,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="Apache ECharts" src="https://img.shields.io/badge/Apache%20ECharts-AA344D.svg?logo=apacheecharts&logoColor=white" /></a>
 </p>
 
-### Web technologies
+<!--### Web technologies
 <p>
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=FastAPI&logoColor=white" /></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white" /></a>
@@ -84,9 +84,9 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" /></a>
     <a href="#"><img alt="Read The Docs" src="https://img.shields.io/badge/Read%20The%20Docs-8CA1AF.svg?logo=readthedocs&logoColor=white" /></a>
     <a href="#"><img alt="Asciidoctor" src="https://img.shields.io/badge/Asciidoctor-E40046.svg?logo=asciidoctor&logoColor=white" /></a>
-</p>
+</p>-->
 
-### Infrastructure management
+<!--### Infrastructure management
 <p>
     <a href="#"><img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-DF0000.svg?logo=zeromq&logoColor=white" /></a>
     <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white" /></a>
@@ -97,20 +97,20 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="Cockpit" src="https://img.shields.io/badge/Cockpit-0066CC.svg?logo=cockpit&logoColor=white" /></a>
     <a href="#"><img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-88171A?logo=WireGuard&logoColor=white" /></a>
     <a href="#"><img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-EA7E20?logo=OpenVPN&logoColor=white" /></a>
-</p>
+</p>-->
 
 ### Tools and utilities
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" /></a>
-    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-064F8C.svg?logo=Cmake&logoColor=white" /></a>
-    <a href="#"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-025E8C.svg?logo=Dependabot&logoColor=white" /></a>
-    <a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2.svg?logo=vagrant&logoColor=white" /></a>
+    <!--<a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-064F8C.svg?logo=Cmake&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-025E8C.svg?logo=Dependabot&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2.svg?logo=vagrant&logoColor=white" /></a>-->
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-F58025?logo=stack-overflow&logoColor=white" /></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" /></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white" /></a>
-    <a href="#"><img alt="CLion" src="https://img.shields.io/badge/Clion-1AC69B.svg?logo=Clion&logoColor=white" /></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=white" /></a>
-    <a href="#"><img alt="Pagure" src="https://img.shields.io/badge/Pagure-4495D1.svg?logo=shell&logoColor=white" /></a>
+    <!--<a href="#"><img alt="CLion" src="https://img.shields.io/badge/Clion-1AC69B.svg?logo=Clion&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="Pagure" src="https://img.shields.io/badge/Pagure-4495D1.svg?logo=shell&logoColor=white" /></a>-->
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" /></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" /></a>
     <a href="#"><img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF.svg?logo=githubactions&logoColor=white" /></a>
@@ -119,10 +119,10 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 ### Virtualization and deployment
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" /></a>
-    <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?logo=podman&logoColor=white" /></a>
-    <a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=redhatopenshift&logoColor=white" /></a>
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2391E6.svg?logo=Kubernetes&logoColor=white" /></a>
-    <a href="#"><img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600.svg?logo=qemu&logoColor=white" /></a>
+    <!--<a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?logo=podman&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=redhatopenshift&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2391E6.svg?logo=Kubernetes&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600.svg?logo=qemu&logoColor=white" /></a>-->
     <a href="#"><img alt="VMware ESXi" src="https://img.shields.io/badge/VMware%20ESXi-607078.svg?logo=vmware&logoColor=white" /></a>
     <a href="#"><img alt="Oracle VirtualBox" src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61.svg?logo=virtualbox&logoColor=white" /></a>
 </p>
@@ -139,7 +139,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 
 ### Desktop technologies
 <p>
-    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-006400.svg?logo=Qt&logoColor=white" /></a>
+    <!--<a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-006400.svg?logo=Qt&logoColor=white" /></a>-->
     <a href="#"><img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-7F25D5.svg?logo=gtk&logoColor=white" /></a>
 </p>
 
@@ -154,13 +154,13 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 <p>
     <a href="#"><img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora%20Linux-51A2DA.svg?logo=fedora&logoColor=white" /></a>
     <a href="#"><img alt="CentOS Stream" src="https://img.shields.io/badge/CentOS%20Stream-262577.svg?logo=CentOS&logoColor=white" /></a>
-    <a href="#"><img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000.svg?logo=redhat&logoColor=white" /></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=archlinux&logoColor=white" /></a>
-    <a href="#"><img alt="OpenSUSE" src="https://img.shields.io/badge/OpenSUSE-73BA25.svg?logo=OpenSUSE&logoColor=white" /></a>
+    <!--<a href="#"><img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000.svg?logo=redhat&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=archlinux&logoColor=white" /></a>-->
+    <!--<a href="#"><img alt="OpenSUSE" src="https://img.shields.io/badge/OpenSUSE-73BA25.svg?logo=OpenSUSE&logoColor=white" /></a>-->
     <a href="#"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-FE7A16.svg?logo=Ubuntu&logoColor=white" /></a>
     <a href="#"><img alt="Debian Linux" src="https://img.shields.io/badge/Debian%20Linux-A81D33.svg?logo=Debian&logoColor=white" /></a>
     <a href="#"><img alt="Manjaro Linux" src="https://img.shields.io/badge/Manjaro%20Linux-35BF5C.svg?logo=manjaro&logoColor=white" /></a>
-    <a href="#"><img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?logo=alpinelinux&logoColor=white" /></a>
+    <!--<a href="#"><img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?logo=alpinelinux&logoColor=white" /></a>-->
 </p>
 
 <!--
