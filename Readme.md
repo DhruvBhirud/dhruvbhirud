@@ -60,7 +60,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" /></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" /></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" /></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%231572B6.svg?logo=java&logoColor=white" /></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
 </p>
 
 ### Analytics and databases
@@ -165,6 +165,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="Debian Linux" src="https://img.shields.io/badge/Debian%20Linux-A81D33.svg?logo=Debian&logoColor=white" /></a>
     <a href="#"><img alt="Manjaro Linux" src="https://img.shields.io/badge/Manjaro%20Linux-35BF5C.svg?logo=manjaro&logoColor=white" /></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white" /></a>
+    <a href="#"><img alt="Android OS" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
     <!--<a href="#"><img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?logo=alpinelinux&logoColor=white" /></a>-->
 </p>
 
