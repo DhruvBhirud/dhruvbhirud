@@ -15,7 +15,7 @@
 ## TLDR
 
 <p align="justify">
-I am a creative engineer who brings out the best in people.
+A Passionate 💻Engineering Student from India
 <p>
 
 ## About
