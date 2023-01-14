@@ -35,7 +35,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 
 ## Accolades
 <p align="center">
-    <a href="#"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=t0xic0der&theme=nord"></a>
+    <a href="#"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=DhruvBhirud&theme=nord"></a>
 </p>
 
 ## Reach out
