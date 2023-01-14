@@ -175,11 +175,11 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#">
         <img alt="Linode" src="https://img.shields.io/badge/Linode-00A95C.svg?logo=linode&logoColor=white" /></a>
     <a href="#">
-        <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" /></a>
+        <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white" /></a>
     <a href="#">
-        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" /></a>
     <a href="#">
-        <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /></a>
+        <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?logo=Replit&logoColor=white" /></a>
 </p>
 
 ### Frameworks
