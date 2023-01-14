@@ -45,7 +45,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
 - <a href="#"><img alt="Dhruv Bhirud on PyPI" src="https://img.shields.io/badge/PyPI-3775A9.svg?logo=pypi&logoColor=white" /></a>&nbsp;<a href="https://pypi.org/user/DhruvBhirud/">DhruvBhirud</a>
 - <a href="#"><img alt="Dhruv Bhirud on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/dhruvbhirud/">DhruvBhirud</a>
 - <a href="#"><img alt="Dhruv Bhirud on Quora" src="https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white" /></a>&nbsp;<a href="https://www.quora.com/profile/Dhruv-Bhirud/">DhruvBhirud</a>
-- <a href="#"><img alt="Reach Dhruv Bhirud on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" /></a>&nbsp;<a href="https://twitter.com/DhruvBhirud">t0xic0der</a>
+- <a href="#"><img alt="Reach Dhruv Bhirud on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" /></a>&nbsp;<a href="https://twitter.com/DhruvBhirud">DhruvBhirud</a>
 - <a href="#"><img alt="Dhruv Bhirud on Medium" src="https://img.shields.io/badge/Medium-000000.svg?logo=medium&logoColor=white" /></a>&nbsp;<a href="https://medium.com/@bhiruddhruv">DhruvBhirud</a>
 - <a href="#"><img alt="Reach Dhruv Bhirud on Email" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white" /></a>&nbsp;<a href="mailto:bhiruddhruv@gmail.com">Email me</a>
 
