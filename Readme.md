@@ -15,7 +15,7 @@
 ## TLDR
 
 <p align="justify">
-A Passionate 💻Engineering Student from India
+A Passionate 💻Engineering Student from India.
 <p>
 
 ## About
@@ -72,7 +72,7 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-FF1100.svg?logo=json&logoColor=white" /></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-6FAD70.svg?logo=mongodb&logoColor=white" /></a>
     <a href="#"><img alt="Jupyter Suite" src="https://img.shields.io/badge/Jupyter%20Suite-D63FEE.svg?logo=jupyter&logoColor=white" /></a>
-    <a href="#"><img alt="Apache ECharts" src="https://img.shields.io/badge/Apache%20ECharts-AA344D.svg?logo=apacheecharts&logoColor=white" /></a>
+    <!--<a href="#"><img alt="Apache ECharts" src="https://img.shields.io/badge/Apache%20ECharts-AA344D.svg?logo=apacheecharts&logoColor=white" /></a>-->
 </p>
 
 <!--### Web technologies
@@ -115,7 +115,9 @@ Always trying to learn new things. I aim to achieve efficiency and increase qual
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" /></a>
     <a href="#"><img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF.svg?logo=githubactions&logoColor=white" /></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white" /></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
+    <a href="#"><img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" /></a>
+    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white" /></a>
 </p>
 
 ### Virtualization and deployment
