@@ -26,12 +26,6 @@ in app development. I enjoy creating new apps with intuitive design and usage.
 Always trying to learn new things. I aim to achieve efficiency and increase quality of the projects that I work on.
 </p>
 
-## Contributions
-
-<p align="justify">
-I had the opportunity to work full-time on free and open-source software when I joined Red Hat's Community Platform Engineering team in 2021. Since then, I have been helping with developing/maintaining projects and monitoring/administrating services on Fedora Infrastructure and CentOS Infrastructure. I have also been leading the efforts on revamping the workflow of managing our websites and application as being the lead of the Fedora Websites and Apps Team and an objective representative in the Fedora Council. To help with the mentorship efforts, I have also been a general mentor twice and a technical mentor once for the Outreachy internships and coordinated the community's participation in such programmes.
-<p>
-
 ## Statistics
 
 <p align="center">
