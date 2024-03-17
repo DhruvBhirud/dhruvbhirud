@@ -8,9 +8,9 @@
     <h1 align="center">Hi 👋, I'm DhruvBhirud</h1>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=DhruvBhirud.dhruvbhirud/" /></a>
-</p>
+</p> -->
 
 ## TLDR
 
