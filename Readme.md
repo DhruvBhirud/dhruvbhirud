@@ -21,7 +21,7 @@ A Passionate 💻Engineering Student from India.
 ## About
 
 <p align="justify">
-I’m Computer Engineering Student from Pune, India, Aiming to improve my skills
+I am a Computer Engineer from Pune, India, Aiming to improve my skills
 in app development. I enjoy creating new apps with intuitive design and usage.
 Always trying to learn new things. I aim to achieve efficiency and increase quality of the projects that I work on.
 </p>
