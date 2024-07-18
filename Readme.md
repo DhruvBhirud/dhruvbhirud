@@ -12,12 +12,6 @@
     <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=DhruvBhirud.dhruvbhirud/" /></a>
 </p> -->
 
-## TLDR
-
-<p align="justify">
-A Passionate 💻Engineering Student from India.
-</p>
-
 ## About
 <p align="justify">
     Hello! I'm Dhruv Bhirud, a passionate and dedicated software engineer with a strong background in computer engineering. I recently graduated from Savitribai Phule Pune University with a Bachelor's degree in Computer Engineering
