@@ -16,16 +16,21 @@
 
 <p align="justify">
 A Passionate 💻Engineering Student from India.
-<p>
+</p>
 
 ## About
+<p align="justify">
+    Hello! I'm Dhruv Bhirud, a passionate and dedicated software engineer with a strong background in computer engineering. I recently graduated from Savitribai Phule Pune University with a Bachelor's degree in Computer Engineering
+</p>
 
 ## My Interests
-    1. Full-Stack Development: Proficient in Java, Python, JavaScript, and TypeScript. Experienced in developing applications using frameworks like Spring Boot, Angular, and React.
-    2. Machine Learning: Actively working on projects involving machine learning and artificial intelligence.
-    3. Cybersecurity: Published research on cybersecurity intrusion detection using machine learning approaches.
-
-
+<p align="justify">
+    <ul>
+        <li>Full-Stack Development: Proficient in Java, Python, JavaScript, and TypeScript. Experienced in developing applications using frameworks like Spring Boot, Angular, and React.</li>
+        <li>Machine Learning: Actively working on projects involving machine learning and artificial intelligence.</li>
+        <li>Cybersecurity: Published research on cybersecurity intrusion detection using machine learning approaches.</li>
+    </ul>
+</p>
 ## Statistics
 
 <p align="center">
