@@ -21,9 +21,10 @@ A Passionate 💻Engineering Student from India.
 ## About
 
 <p align="justify">
-Motivated Computer Engineering graduate from Savitribai Phule Pune University with a strong foundation in Full
-Stack Java development. Seeking a dynamic role to utilize and further develop my technical skills, contributing to
-impactful projects within a forward-thinking organization.
+My Interests
+    - Full-Stack Development: Proficient in Java, Python, JavaScript, and TypeScript. Experienced in developing applications using frameworks like Spring Boot, Angular, and React.
+    - Machine Learning: Actively working on projects involving machine learning and artificial intelligence.
+    - Cybersecurity: Published research on cybersecurity intrusion detection using machine learning approaches.
 </p>
 
 ## Statistics
