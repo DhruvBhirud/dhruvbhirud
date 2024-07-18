@@ -19,10 +19,7 @@ A Passionate 💻Engineering Student from India.
 <p>
 
 ## About
-
-<p align="justify">
-    <p>My Interests</p>
-</p>
+My Interests
 
 ## Statistics
 
