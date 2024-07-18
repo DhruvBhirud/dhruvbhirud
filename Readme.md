@@ -21,10 +21,8 @@ A Passionate 💻Engineering Student from India.
 ## About
 
 <p align="justify">
-My Interests
-    - Full-Stack Development: Proficient in Java, Python, JavaScript, and TypeScript. Experienced in developing applications using frameworks like Spring Boot, Angular, and React.
-    - Machine Learning: Actively working on projects involving machine learning and artificial intelligence.
-    - Cybersecurity: Published research on cybersecurity intrusion detection using machine learning approaches.
+    ### My Interests
+        Full-Stack Development: Proficient in Java, Python, JavaScript, and TypeScript. Experienced in developing applications using frameworks like Spring Boot, Angular, and React.
 </p>
 
 ## Statistics
