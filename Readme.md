@@ -21,8 +21,7 @@ A Passionate 💻Engineering Student from India.
 ## About
 
 <p align="justify">
-    ### My Interests
-        Full-Stack Development: Proficient in Java, Python, JavaScript, and TypeScript. Experienced in developing applications using frameworks like Spring Boot, Angular, and React.
+    <p>My Interests</p>
 </p>
 
 ## Statistics
