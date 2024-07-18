@@ -49,7 +49,7 @@
 - <a href="https://medium.com/@bhiruddhruv"><img alt="Dhruv Bhirud on Medium" src="https://img.shields.io/badge/Medium-000000.svg?logo=medium&logoColor=white" /></a>&nbsp;
 - <a href="mailto:bhiruddhruv@gmail.com"><img alt="Reach Dhruv Bhirud on Email" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white" /></a>&nbsp;
 
-## Arsenal
+## Skills
 
 ### Programming and development
 <p>
