@@ -21,9 +21,9 @@ A Passionate 💻Engineering Student from India.
 ## About
 
 <p align="justify">
-I am a Computer Engineer from Pune, India, Aiming to improve my skills
-in app development. I enjoy creating new apps with intuitive design and usage.
-Always trying to learn new things. I aim to achieve efficiency and increase quality of the projects that I work on.
+Motivated Computer Engineering graduate from Savitribai Phule Pune University with a strong foundation in Full
+Stack Java development. Seeking a dynamic role to utilize and further develop my technical skills, contributing to
+impactful projects within a forward-thinking organization.
 </p>
 
 ## Statistics
