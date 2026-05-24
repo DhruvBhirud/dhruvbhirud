@@ -81,7 +81,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DhruvBhirud&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvBhirud&theme=vue-dark&hide_border=true&background=0D1117" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DhruvBhirud" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
